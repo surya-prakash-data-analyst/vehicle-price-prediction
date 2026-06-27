@@ -308,7 +308,7 @@ with open('models/random_forest_regression_model.pkl', 'rb') as f:
 
 Built for: Data Analyst · ML Analyst · Analytics Engineer · BI Analyst · Remote Analytics roles
 
-📧 suryaprakash1892@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/surya-prakash-data-analyst) · 🐙 [GitHub](https://github.com/surya-prakash-data-analyst)
+📧 suryaprakash1892@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/surya-prakash-data-analyst) · 🐙 [GitHub](https://github.com/surya-prakash-data-analyst) 🌐 [Portfolio](https://suryaprakash18.lovable.app)
 
 ---
 
